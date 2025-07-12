@@ -32,7 +32,6 @@
 ---
 
 <h3 align="left">🛠 Languages &amp; Tools</h3>
-<h3 align="left">🛠 Languages &amp; Tools</h3>
 <p align="left">
   Python · Flutter · Android · Java · C · C++ · C# · IoT · ESP32 · Arduino · Altium Designer · STM (Microcontrollers) · Raspberry Pi · DWIN
 </p>

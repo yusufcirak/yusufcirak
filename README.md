@@ -2,7 +2,7 @@
 <h3 align="center">IoT Developer | Computer Engineer | Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  🔭 I’m currently working on IoT services and applications at <strong>CIRAXIS</strong><br>
+  🔭 Founder & IoT Developer at <strong>CIRAXIS</strong><br>
   🌱 Pursuing my Master’s in Computer Engineering at Mehmet Akif Ersoy University<br>
   👯 I’m open to collaborate on IoT, embedded systems, and mobile apps<br>
   💬 Ask me about Python, Flutter, ESP32, Altium Designer, and networking<br>

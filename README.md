@@ -6,7 +6,7 @@
   🌱 Pursuing my Master’s in Computer Engineering at Mehmet Akif Ersoy University<br>
   👯 I’m open to collaborate on IoT, embedded systems, and mobile apps<br>
   💬 Ask me about Python, Flutter, ESP32, Altium Designer, and networking<br>
-  📫 How to reach me: <a href="mailto:info@yusufcirak.tr">info@yusufcirak.tr</a><br>
+  📫 How to reach me: <a href="mailto:yusufciraktr@gmail.com">yusufciraktr@gmail.com</a><br>
   🔗 Visit my website: <a href="https://yusufcirak.tr">yusufcirak.tr</a>
 </p>
 
@@ -66,7 +66,7 @@
 
 <h3 align="left">📫 Contact</h3>
 <p>
-  📧 <a href="mailto:yusufciraktr@gmail.com">info@yusufcirak.tr</a><br>
+  📧 <a href="mailto:yusufciraktr@gmail.com">yusufciraktr@gmail.com</a><br>
   📱 +90 545 887 9113<br>
   🌍 <a href="https://yusufcirak.tr">yusufcirak.tr</a>
 </p>

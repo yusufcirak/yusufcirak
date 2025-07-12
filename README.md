@@ -66,7 +66,7 @@
 
 <h3 align="left">📫 Contact</h3>
 <p>
-  📧 <a href="mailto:info@yusufcirak.tr">info@yusufcirak.tr</a><br>
+  📧 <a href="mailto:yusufciraktr@gmail.com">info@yusufcirak.tr</a><br>
   📱 +90 545 887 9113<br>
   🌍 <a href="https://yusufcirak.tr">yusufcirak.tr</a>
 </p>

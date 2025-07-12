@@ -33,8 +33,53 @@
 
 <h3 align="left">🛠 Languages &amp; Tools</h3>
 <p align="left">
-  Python · Flutter · Android · Java · C · C++ · C# · IoT · ESP32 · Arduino · Altium Designer · TCP/IP · VMware (ESX, vSphere) · Cisco Technologies · STM (Microcontrollers) · Raspberry Pi · DWIN
+  <a href="https://python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://esp32.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/esp32.png" alt="esp32" width="40" height="40"/>
+  </a>
+  <a href="https://www.altium.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="altium" width="40" height="40"/>
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
+  </a>
+  <a href="https://www.st.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stmicroelectronics/stmicroelectronics-original.svg" alt="stm" width="40" height="40"/>
+  </a>
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="cisco" width="40" height="40"/>
+  </a>
+  <a href="https://www.vmware.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="vmware" width="40" height="40"/>
+  </a>
+  <a href="https://www.dwin.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/display-chip--v1.png" alt="dwin" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 

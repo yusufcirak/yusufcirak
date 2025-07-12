@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Yusuf Çırak</h1>
-<h3 align="center">IoT Developer | Computer Engineer | Embedded Systems Enthusiast</h3>
+<h3 align="center">IoT Developer | Computer Engineer | Embedded Systems Developer </h3>
 
 <p align="center">
   🔭 Founder & IoT Developer at <strong>CIRAXIS</strong><br>
